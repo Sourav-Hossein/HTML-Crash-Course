@@ -1,3 +1,3 @@
-HTML Crash Course
+# HTML Crash Course
 
-DevEmpower YouTube channel
+## DevEmpower YouTube channel
