@@ -4,31 +4,24 @@
 
 ## Extensions
 
-#### 1- Auto Close Tag
+#### [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
-[Download Link](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+#### [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 
-#### 2- Auto Rename Tag
+#### [HTMLHint](https://marketplace.visualstudio.com/items?itemName=HTMLHint.vscode-htmlhint)
 
-[Download Link](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+#### [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
-#### 3- Live Server
+#### [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
-[Download Link](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+#### [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 
-#### 4- Material Icon Theme
-
-[Download Link](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-
-#### 5- One Dark Pro
-
-[Download Link](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
-
-#### 6- Prettier - Code formatter
-
-[Download Link](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+#### [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 ## Configs:
 
+- Enable AutoSave (File -> Auto Save)
+- Enable Format On Save (Settings -> User -> Text Editor -> Formatting)
+- Format On Save Mode -> File
 - Color Theme: One Dark Pro
 - File Icon Theme: Material Icon Theme
